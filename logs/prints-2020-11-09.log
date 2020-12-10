@@ -1,0 +1,7 @@
+20:34:56.887 [main] INFO  End_to_End.Section_29.Credentials - Entered the Username
+20:34:57.220 [main] INFO  End_to_End.Section_29.Credentials - Entered the password
+20:34:57.220 [main] INFO  End_to_End.Section_29.Credentials - Restricted User
+20:34:57.540 [main] INFO  End_to_End.Section_29.Credentials - Submitted
+20:34:59.606 [main] INFO  End_to_End.Section_29.Credentials - Entered the website
+20:35:00.445 [main] INFO  End_to_End.Section_29.Credentials - Clicked on the login button
+20:35:00.677 [main] INFO  End_to_End.Section_29.Credentials - Entered the Username

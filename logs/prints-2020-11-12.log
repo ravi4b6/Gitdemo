@@ -1,0 +1,6 @@
+22:53:36.336 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Clicked on the login button
+22:53:36.862 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the Username
+22:53:37.016 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the password
+22:53:37.016 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Restricted User
+22:53:37.551 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Submitted
+22:53:44.417 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the website

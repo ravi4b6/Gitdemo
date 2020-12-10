@@ -1,0 +1,6 @@
+21:52:30.329 [TestNG-tests-3] INFO  End_to_End.Section_29.validate_HomeButton - Home Button Verified!
+21:52:34.454 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Clicked on the login button
+21:52:34.848 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the Username
+21:52:34.971 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the password
+21:52:34.972 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Restricted User
+21:52:35.672 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Submitted

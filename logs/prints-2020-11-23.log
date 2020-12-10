@@ -1,0 +1,6 @@
+22:01:18.635 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Submitted
+21:41:40.755 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Browser Initialized!
+21:42:22.381 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the website
+21:42:29.033 [TestNG-tests-3] INFO  End_to_End.Section_29.validate_HomeButton - Home Button Verified!
+21:42:37.237 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Entered the website
+21:42:46.779 [TestNG-tests-1] INFO  End_to_End.Section_29.Credentials - Clicked on the login button
